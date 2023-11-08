@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #564caf;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #564caf;
     color: white;
     text-align: center;
     padding: 1rem;
